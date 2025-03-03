@@ -1,6 +1,5 @@
 # Practicas_Java
 
-# Java2_OrtizZully
 
 Este repositorio contiene diversos ejercicios para comprender, entender y aprender sobre el lenguaje de Java en la cual esta guardado en diferentes carpetas.
 
